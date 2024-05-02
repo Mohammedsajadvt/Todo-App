@@ -6,7 +6,6 @@ import 'package:todo/screens/todo_screen.dart';
 void main() async {
   await Hive.initFlutter();
   Hive.registerAdapter(TodoModelAdapter());
-  //await TodoService().openbox();
   runApp(const MyApp());
 }
 
