@@ -7,7 +7,6 @@ A new Flutter project. Just a Simple Todo App Local DB Used Hive I used Hive CRU
 </div>
 
 <div>
-<img src="screenshots/Screenshot_1714666758.png" width=256 style:inline-block/>
 <img src="screenshots/Screenshot_1714666765.png" width=256 style:inline-block/>
 <img src="screenshots/Screenshot_1714666792.png" width=256 style:inline-block/>
 </div>
